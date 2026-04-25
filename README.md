@@ -108,7 +108,6 @@ me.say_hi()
 |----------|------------|
 | 🟡 HackerRank | ⭐⭐⭐⭐⭐ Python &nbsp;•&nbsp; ⭐⭐⭐⭐⭐ SQL &nbsp;•&nbsp; SQL (Advanced) Certified |
 | 🟠 LeetCode | 🏅 Introduction to Pandas &nbsp;•&nbsp; 🏅 Top SQL 50 |
-| 🎓 AlmaBetter | Full Stack Data Science — Score 90/100 in all Capstone Projects |
 
 
 ## 🤝 Connect With Me
