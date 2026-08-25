@@ -20,12 +20,12 @@
 class ChandanKoiri:
     def __init__(self):
         self.name       = "Chandan Koiri"
-        self.role       = "Python Developer & AI/ML Engineer"
+        self.role       = "Assistant Professor & AI/ML Enthusiast"
         self.location   = "Dibrugarh, Assam, India 🇮🇳"
         self.education  = "MCA — Dibrugarh University (CGPA: 8.16)"
         self.email      = "chandankoiri1997@gmail.com"
-        self.focus      = ["LLMs", "RAG", "GenAI", "Backend APIs", "NLP"]
-        self.currently  = "Open to exciting AI/ML opportunities 🚀"
+        self.focus      = ["DSA", "Artificial Intelligence", "GenAI", "DBMS", "NLP"]
+        self.currently  = "Open to exciting Edtech, AI/ML opportunities 🚀"
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something intelligent together.")
