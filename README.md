@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Chandan+Koiri+%F0%9F%91%8B;Assiatant+Professor;Python+Developer+%7C+AI%2FML+Enthusiast;Building+intelligent+solutions+%F0%9F%A4%96;LLM+%7C+RAG+%7C+GenAI+%7C+Backend+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Chandan+Koiri+%F0%9F%91%8B;Assistant+Professor(CS);Python+Developer+%7C+AI%2FML+Enthusiast;Building+intelligent+solutions+%F0%9F%A4%96;LLM+%7C+RAG+%7C+GenAI+%7C+Backend+Dev)](https://git.io/typing-svg)
 
 <!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Chandan2597&color=00b4d8&style=flat-square&label=Profile+Views)
